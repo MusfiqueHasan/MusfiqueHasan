@@ -24,4 +24,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=musfiquehasan&show_icons=true&locale=en" alt="musfiquehasan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=musfiquehasan&" alt="musfiquehasan" /></p>
-<a href="https://github.com/MusfiqueHasan"><img alt="jahid6597's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jahid6597&custom_title=jahid6597's%20Contribution%20Graph&theme=react-dark" /></a>
+<a href="https://github.com/MusfiqueHasan"><img alt="jahid6597's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MusfiqueHasancustom_title=MusfiqueHasan's%20Contribution%20Graph&theme=react-dark" /></a>
